@@ -8,5 +8,8 @@ namespace GitTest
 {
     class TestCls
     {
+        public void Test1()
+        {
+        }
     }
 }
