@@ -15,5 +15,9 @@ namespace GitTest
         public void Test2()
         {
         }
+
+        public void Test3()
+        {
+        }
     }
 }
