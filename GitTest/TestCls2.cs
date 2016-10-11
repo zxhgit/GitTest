@@ -8,5 +8,9 @@ namespace GitTest
 {
     class TestCls2
     {
+        public void TestBranchA()
+        {
+            Console.WriteLine("aaa");
+        }
     }
 }
