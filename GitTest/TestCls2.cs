@@ -10,6 +10,7 @@ namespace GitTest
     {
         public void TestBranchA()
         {
+            Console.WriteLine("aaa");
         }
     }
 }
