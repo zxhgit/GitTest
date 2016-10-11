@@ -22,8 +22,16 @@ namespace GitTest
         public void Test3()
         {
         }
-
+        
+        public void Test22()
+        {
+        }
+        
         public void Test33()
+        {
+        }
+
+        public void Test4()
         {
         }
     }
