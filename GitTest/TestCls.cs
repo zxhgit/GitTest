@@ -34,5 +34,9 @@ namespace GitTest
         public void Test4()
         {
         }
+
+        public void Test5()
+        {
+        }
     }
 }
