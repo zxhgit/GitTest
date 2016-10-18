@@ -17,5 +17,10 @@ namespace GitTest
         {
             Console.WriteLine("aaa");
         }
+
+        public void TestMerge()
+        {
+            Console.WriteLine("this is branch master");
+        }
     }
 }
