@@ -13,7 +13,7 @@ namespace GitTest
             Console.WriteLine("aaa");
         }
 
-        public void TestBranchA2()
+        public void TestBranchA3()
         {
             Console.WriteLine("aab");
         }
