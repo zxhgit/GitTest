@@ -33,6 +33,7 @@ namespace GitTest
         public void TestRebase2()
         {
             Console.WriteLine("this is branch master");
+            Console.WriteLine("this is branch rebase2");
         }
     }
 }
