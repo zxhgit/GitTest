@@ -15,7 +15,7 @@ namespace GitTest
 
         public void TestBranchA1()
         {
-            Console.WriteLine("aaa");
+            Console.WriteLine("aab");
         }
 
         public void TestMerge()
