@@ -42,7 +42,7 @@ namespace GitTest
             Console.WriteLine("this is branch master");
         }
 
-	    private void C3()
+        public void C3()
         {
 
         }
