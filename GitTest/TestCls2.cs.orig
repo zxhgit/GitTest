@@ -42,15 +42,16 @@ namespace GitTest
             Console.WriteLine("this is branch master");
         }
 
-<<<<<<< ed8051734100c3f3d5093e9e0527431c38793482
+<<<<<<< 1e743218930db3a9da1cf534467512eac3f8cd2c
         public void C3()
 =======
-	    private void C3()
->>>>>>> c3
+        private void C3()
+>>>>>>> c4
         {
+
         }
-        
-        private void C4()
+
+        public void C4()
         {
 
 

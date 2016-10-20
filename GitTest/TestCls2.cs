@@ -46,8 +46,8 @@ namespace GitTest
         {
 
         }
-        
-        private void C4()
+
+        public void C4()
         {
 
 
