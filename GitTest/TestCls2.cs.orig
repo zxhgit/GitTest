@@ -13,9 +13,9 @@ namespace GitTest
             Console.WriteLine("aaa");
         }
 
-        public void TestBranchA3()
+        public void TestBranchA4()
         {
-            Console.WriteLine("aab");
+            Console.WriteLine("aabb");
         }
 
         public void TestMerge()
@@ -38,11 +38,19 @@ namespace GitTest
 
         public void TestRebase3()
         {
-<<<<<<< d58595270209fdd0800ccdf483cc79ca71f464fb
             Console.WriteLine("this is branch rebase3");
-=======
             Console.WriteLine("this is branch master");
->>>>>>> this is branch master
         }
+
+<<<<<<< d189e173e76c2ab17850d4b1be9ea39434aa0e78
+	    public void C3()
+        {
+        }
+        
+=======
+        public void C4()
+        {
+        }
+>>>>>>> c4
     }
 }
